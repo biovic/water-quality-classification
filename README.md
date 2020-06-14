@@ -1,2 +1,2 @@
 # water-quality-classification
-Classifying the location peril or good for human being
+Classifying the location peril or safe for human being
